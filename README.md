@@ -41,7 +41,7 @@ A powerful lead generation system for AI and web development freelancers to disc
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/codedbyasim/ai-lead-finder
 cd ai-lead-finder
 ```
 
