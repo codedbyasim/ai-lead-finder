@@ -31,7 +31,7 @@ A powerful lead generation system for AI and web development freelancers to disc
 
 ## 📋 Prerequisites
 
-- Python 3.10 or higher
+- Python 3.12 or higher
 - Bright Data account with API access
 - Google Gemini API key OR OpenAI API key
 - Internet connection
